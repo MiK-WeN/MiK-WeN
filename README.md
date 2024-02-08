@@ -1,6 +1,5 @@
 ### Hello everybody!
 <br>
-<br>
 - 🌱  <strong>I am currently learning the following technologies:</strong>
 <br>
 <br>
